@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
   
-  <Hotel Rating="4.2">
+  <Hotel>
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
@@ -12,9 +12,10 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
+    <Rating>"4.2"</Rating>
   </Hotel>
 
-  <Hotel Rating="4.7">
+  <Hotel>
     <Name>Marriott</Name>
     <Phone>480-676-4567</Phone>
     <Address>
@@ -24,9 +25,10 @@
       <State>AZ</State>
       <Zip>85004</Zip>
     </Address>
+    <Rating>"4.7"</Rating>
   </Hotel>
 
-  <Hotel Rating="2.9">
+  <Hotel>
     <Name>Motel 6</Name>
     <Phone>602-765-4321</Phone>
     <Address NearestAirport="Mesa Gateway">
@@ -36,9 +38,10 @@
       <State>AZ</State>
       <Zip>85282</Zip>
     </Address>
+    <Rating>"2.9"</Rating>
   </Hotel>
 
-  <Hotel Rating="3.6">
+  <Hotel>
     <Name>Holiday Inn</Name>
     <Phone>480-654-7890</Phone>
     <Address>
@@ -48,9 +51,10 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
+    <Rating>"3.6"</Rating>
   </Hotel>
 
-  <Hotel Rating="4.1">
+  <Hotel>
     <Name>Hilton Garden Inn</Name>
     <Phone>480-321-0000</Phone>
     <Address>
@@ -60,9 +64,10 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
+    <Rating>"4.1"</Rating>
   </Hotel>
 
-  <Hotel Rating="4.5">
+  <Hotel>
     <Name>Best Choice Inn</Name>
     <Phone>602-111-2222</Phone>
     <Address NearestAirport="Phoenix Sky Harbor">
@@ -72,9 +77,10 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
+    <Rating>"4.5"</Rating>
   </Hotel>
 
-  <Hotel Rating="4.0">
+  <Hotel>
     <Name>Residence Inn</Name>
     <Phone>602-333-4444</Phone>
     <Address>
@@ -84,9 +90,10 @@
       <State>AZ</State>
       <Zip>85282</Zip>
     </Address>
+    <Rating>"4.0"</Rating>
   </Hotel>
 
-  <Hotel Rating="4.7">
+  <Hotel>
     <Name>TAJ Palace</Name>
     <Phone>481-888-7977</Phone>
     <Address NearestAirport="Scottsdale Airport">
@@ -96,9 +103,10 @@
       <State>AZ</State>
       <Zip>85204</Zip>
     </Address>
+     <Rating>"4.7"</Rating>
   </Hotel>
 
-  <Hotel Rating="4.8">
+  <Hotel>
     <Name>Ceasar Palace</Name>
     <Phone>623-222-4444</Phone>
     <Address>
@@ -108,9 +116,10 @@
       <State>NV</State>
       <Zip>89109</Zip>
     </Address>
+     <Rating>"4.8"</Rating>
   </Hotel>
 
-  <Hotel Rating="4.3">
+  <Hotel>
     <Name>Royal Heritage Resort</Name>
     <Phone>602-123-7890</Phone>
     <Address>
@@ -120,6 +129,7 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
+     <Rating>"4.3"</Rating>
   </Hotel>
 </Hotels>
 
