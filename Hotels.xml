@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
+  
   <Hotel Rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
@@ -28,7 +29,6 @@
   <Hotel Rating="2.9">
     <Name>Motel 6</Name>
     <Phone>602-765-4321</Phone>
-    <Phone>602-123-9009</Phone>
     <Address NearestAirport="Mesa Gateway">
       <Number>202</Number>
       <Street>Mill Ave</Street>
@@ -77,7 +77,6 @@
   <Hotel Rating="4.0">
     <Name>Residence Inn</Name>
     <Phone>602-333-4444</Phone>
-    <Phone>602-555-8888</Phone>
     <Address>
       <Number>77</Number>
       <Street>Broadway Rd</Street>
@@ -89,7 +88,7 @@
 
   <Hotel Rating="4.7">
     <Name>TAJ Palace</Name>
-    <Phone>480-888-7777</Phone>
+    <Phone>481-888-7977</Phone>
     <Address NearestAirport="Scottsdale Airport">
       <Number>500</Number>
       <Street>Southern Ave</Street>
