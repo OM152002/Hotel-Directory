@@ -4,7 +4,7 @@
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Address _NearestAirport="Sky Harbor">
+    <Address _NearstAirport="Sky Harbor">
       <Number>11</Number>
       <Street>E 7th St</Street>
       <City>Tempe</City>
@@ -16,7 +16,7 @@
   <Hotel _Rating="4.7">
     <Name>Marriott</Name>
     <Phone>480-676-4567</Phone>
-    <Address>
+    <Address _NearstAirport="Sky Harbor">
       <Number>156</Number>
       <Street>Main St</Street>
       <City>Phoenix</City>
@@ -29,7 +29,7 @@
     <Name>Motel 6</Name>
     <Phone>602-765-4321</Phone>
     <Phone>602-123-9009</Phone>
-    <Address _NearestAirport="Mesa Gateway">
+    <Address _NearstAirport="Mesa Gateway">
       <Number>202</Number>
       <Street>Mill Ave</Street>
       <City>Tempe</City>
@@ -41,7 +41,7 @@
   <Hotel _Rating="3.6">
     <Name>Holiday Inn</Name>
     <Phone>480-654-7890</Phone>
-    <Address>
+    <Address _NearstAirport="Sky Harbor">
       <Number>88</Number>
       <Street>University Dr</Street>
       <City>Tempe</City>
@@ -53,7 +53,7 @@
   <Hotel _Rating="4.1">
     <Name>Hilton Garden Inn</Name>
     <Phone>480-321-0000</Phone>
-    <Address>
+    <Address _NearstAirport="Sky Harbor">
       <Number>350</Number>
       <Street>Ash Ave</Street>
       <City>Tempe</City>
@@ -65,7 +65,7 @@
   <Hotel _Rating="4.5">
     <Name>Best Choice Inn</Name>
     <Phone>602-111-2222</Phone>
-    <Address _NearestAirport="Phoenix Sky Harbor">
+    <Address _NearstAirport="Phoenix Sky Harbor">
       <Number>44</Number>
       <Street>Forest Ave</Street>
       <City>Tempe</City>
@@ -78,7 +78,7 @@
     <Name>Residence Inn</Name>
     <Phone>602-333-4444</Phone>
     <Phone>602-555-8888</Phone>
-    <Address>
+    <Address _NearstAirport="Sky Harbor">
       <Number>77</Number>
       <Street>Broadway Rd</Street>
       <City>Tempe</City>
@@ -90,7 +90,7 @@
   <Hotel _Rating="4.7">
     <Name>TAJ Palace</Name>
     <Phone>480-888-7777</Phone>
-    <Address _NearestAirport="Scottsdale Airport">
+    <Address _NearstAirport="Scottsdale Airport">
       <Number>500</Number>
       <Street>Southern Ave</Street>
       <City>Mesa</City>
@@ -102,7 +102,7 @@
   <Hotel _Rating="4.8">
     <Name>Ceasar Palace</Name>
     <Phone>623-222-4444</Phone>
-    <Address>
+    <Address _NearstAirport="Sky Harbor">
       <Number>99</Number>
       <Street>Rural Rd</Street>
       <City>Las Vegas</City>
@@ -114,7 +114,7 @@
   <Hotel _Rating="4.3">
     <Name>Royal Heritage Resort</Name>
     <Phone>602-123-7890</Phone>
-    <Address>
+    <Address _NearstAirport="Sky Harbor">
       <Number>12</Number>
       <Street>Apache Blvd</Street>
       <City>Tempe</City>
@@ -126,7 +126,7 @@
   <Hotel _Rating="3.8">
     <Name>SeaFront Inn</Name>
     <Phone>602-123-7890</Phone>
-    <Address>
+    <Address _NearstAirport="Sky Harbor">
       <Number>12</Number>
       <Street>Apache Blvd</Street>
       <City>Tempe</City>
