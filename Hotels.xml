@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
-  
-  <Hotel>
+  <Hotel _Rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address _NearestAirport="Sky Harbor">
       <Number>11</Number>
       <Street>E 7th St</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
-    <Rating>"4.2"</Rating>
   </Hotel>
 
-  <Hotel>
+  <Hotel _Rating="4.7">
     <Name>Marriott</Name>
     <Phone>480-676-4567</Phone>
     <Address>
@@ -25,23 +23,22 @@
       <State>AZ</State>
       <Zip>85004</Zip>
     </Address>
-    <Rating>"4.7"</Rating>
   </Hotel>
 
-  <Hotel>
+  <Hotel _Rating="2.9">
     <Name>Motel 6</Name>
     <Phone>602-765-4321</Phone>
-    <Address NearestAirport="Mesa Gateway">
+    <Phone>602-123-9009</Phone>
+    <Address _NearestAirport="Mesa Gateway">
       <Number>202</Number>
       <Street>Mill Ave</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85282</Zip>
     </Address>
-    <Rating>"2.9"</Rating>
   </Hotel>
 
-  <Hotel>
+  <Hotel _Rating="3.6">
     <Name>Holiday Inn</Name>
     <Phone>480-654-7890</Phone>
     <Address>
@@ -51,10 +48,9 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
-    <Rating>"3.6"</Rating>
   </Hotel>
 
-  <Hotel>
+  <Hotel _Rating="4.1">
     <Name>Hilton Garden Inn</Name>
     <Phone>480-321-0000</Phone>
     <Address>
@@ -64,25 +60,24 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
-    <Rating>"4.1"</Rating>
   </Hotel>
 
-  <Hotel>
+  <Hotel _Rating="4.5">
     <Name>Best Choice Inn</Name>
     <Phone>602-111-2222</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor">
+    <Address _NearestAirport="Phoenix Sky Harbor">
       <Number>44</Number>
       <Street>Forest Ave</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
-    <Rating>"4.5"</Rating>
   </Hotel>
 
-  <Hotel>
+  <Hotel _Rating="4.0">
     <Name>Residence Inn</Name>
     <Phone>602-333-4444</Phone>
+    <Phone>602-555-8888</Phone>
     <Address>
       <Number>77</Number>
       <Street>Broadway Rd</Street>
@@ -90,23 +85,21 @@
       <State>AZ</State>
       <Zip>85282</Zip>
     </Address>
-    <Rating>"4.0"</Rating>
   </Hotel>
 
-  <Hotel>
+  <Hotel _Rating="4.7">
     <Name>TAJ Palace</Name>
-    <Phone>481-888-7977</Phone>
-    <Address NearestAirport="Scottsdale Airport">
+    <Phone>480-888-7777</Phone>
+    <Address _NearestAirport="Scottsdale Airport">
       <Number>500</Number>
       <Street>Southern Ave</Street>
       <City>Mesa</City>
       <State>AZ</State>
       <Zip>85204</Zip>
     </Address>
-     <Rating>"4.7"</Rating>
   </Hotel>
 
-  <Hotel>
+  <Hotel _Rating="4.8">
     <Name>Ceasar Palace</Name>
     <Phone>623-222-4444</Phone>
     <Address>
@@ -116,10 +109,9 @@
       <State>NV</State>
       <Zip>89109</Zip>
     </Address>
-     <Rating>"4.8"</Rating>
   </Hotel>
 
-  <Hotel>
+  <Hotel _Rating="4.3">
     <Name>Royal Heritage Resort</Name>
     <Phone>602-123-7890</Phone>
     <Address>
@@ -129,7 +121,18 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
-     <Rating>"4.3"</Rating>
   </Hotel>
-</Hotels>
 
+  <Hotel _Rating="3.8">
+    <Name>SeaFront Inn</Name>
+    <Phone>602-123-7890</Phone>
+    <Address>
+      <Number>12</Number>
+      <Street>Apache Blvd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+</Hotels>
