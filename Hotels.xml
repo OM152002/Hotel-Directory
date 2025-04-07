@@ -25,10 +25,10 @@
     </Address>
   </Hotel>
 
-  <Hotel>
+  <Hotel Rating="2.9">
     <Name>Motel 6</Name>
     <Phone>602-765-4321</Phone>
-    <Phone>602-123-9999</Phone>
+    <Phone>602-123-9009</Phone>
     <Address NearestAirport="Mesa Gateway">
       <Number>202</Number>
       <Street>Mill Ave</Street>
@@ -50,7 +50,7 @@
     </Address>
   </Hotel>
 
-  <Hotel>
+  <Hotel Rating="4.1>
     <Name>Hilton Garden Inn</Name>
     <Phone>480-321-0000</Phone>
     <Address>
@@ -87,7 +87,7 @@
     </Address>
   </Hotel>
 
-  <Hotel>
+  <Hotel Rating="4.7">
     <Name>TAJ Palace</Name>
     <Phone>480-888-7777</Phone>
     <Address NearestAirport="Scottsdale Airport">
@@ -111,7 +111,7 @@
     </Address>
   </Hotel>
 
-  <Hotel>
+  <Hotel Rating="4.3">
     <Name>Royal Heritage Resort</Name>
     <Phone>602-123-7890</Phone>
     <Address>
